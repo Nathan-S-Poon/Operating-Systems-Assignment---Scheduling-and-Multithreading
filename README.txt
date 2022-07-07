@@ -1,3 +1,5 @@
+Simulation of CPU scheduling and multithreading
+
 How to run
 In part1, part2, part3, run make to compile 
 sample files that can be used are in the SampleFiles directory
